@@ -100,6 +100,5 @@ import fetch from "node-fetch";
 
   console.log("Users", users);
   console.log("Post 1", post1);
-  ß;
   console.log("Post 2", post2);
 })();
